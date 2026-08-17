@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comet-suites.github.io/CometPDF/sitemap.xml
